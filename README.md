@@ -1,6 +1,6 @@
 # Casper-Nirvana-F600-Hackintosh
 
-Normally, this laptop has an external GPU which is 940MX however mine was removed, so I haven't check if the EFIs disable external graphics. If you have an eGPU, make sure to disable it first.
+Normally, this laptop has an external GPU which is 940MX however mine was removed, so I haven't checked if the EFIs disable external graphics. If you have an eGPU, make sure to disable it first.
 
 These EFIs have been tested on Ventura and Monterey, any version below these you'll have to test it yourself.
 
